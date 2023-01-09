@@ -1,3 +1,3 @@
 # Shared References and Tips
 
-* [Sumary](SUMARY.md)
+* [Summary](SUMMARY.md)
