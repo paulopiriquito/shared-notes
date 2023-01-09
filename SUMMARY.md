@@ -4,5 +4,5 @@
 
 ## Books and Authors
 
-* [Architecture](books-and-authors/library.md)
+* [Architecture](books-and-authors/architecture.md)
 * [Game Changing](books-and-authors/game-changing.md)
