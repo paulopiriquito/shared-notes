@@ -1,4 +1,8 @@
 # Table of contents
 
 * [Shared References and Tips](README.md)
-* [Library](library.md)
+
+## Books and Authors
+
+* [Architecture](books-and-authors/library.md)
+* [Game Changing](books-and-authors/game-changing.md)
